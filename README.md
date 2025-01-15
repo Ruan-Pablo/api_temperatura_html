@@ -8,6 +8,8 @@ A ideia consiste em fazer uma pesquisa pela cidade, requisitar em uma api (Open 
 
 Aqui temos alguns exemplos:
 
+Página inicial <br>
 ![Pagina inicial](amostra/inicial.png)
 
+Exemplo de pesquisa <br>
 ![Exemplo de Pesquisa](amostra/exemplo_pesquisa.png)
